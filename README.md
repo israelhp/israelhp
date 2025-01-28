@@ -1,12 +1,26 @@
-<h1 align="center">Hi 👋, I'm Isra!</h1>
-<div align="center">
-  <a href="https://github.com/israelhp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelhp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelhp&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<br>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=32&color=000000&duration=4000&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Isra!" alt="Typing SVG">
+</h1>
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 <div align ="center"> 
-  <a href="https://www.instagram.com/isra_legend" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.facebook.com/israel.pinto.505/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:israelhurtarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <!-- Badge de Instagram -->
+  <a href="https://www.instagram.com/isra_legend" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-gray?style=flat&labelColor=545454&color=313131&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>
+  
+  <!-- Badge de Facebook -->
+  <a href="https://www.facebook.com/tu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-gray?style=flat&labelColor=545454&color=313131&logo=facebook&logoColor=white" alt="Facebook Badge">
+  </a>
+  
+  <!-- Badge de Gmail (ahora con el logo en blanco) -->
+  <a href="mailto:tu_correo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-gray?style=flat&labelColor=545454&color=313131&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <div align="center">
+    <a href="https://github.com/israelhp">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelhp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelhp&layout=compact&langs_count=7&theme=dark"/>
+  </div>
 </div>
