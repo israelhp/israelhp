@@ -18,9 +18,4 @@
   <a href="mailto:tu_correo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-gray?style=flat&labelColor=545454&color=313131&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  <div align="center">
-    <a href="https://github.com/israelhp">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelhp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelhp&layout=compact&langs_count=7&theme=dark"/>
-  </div>
 </div>
